@@ -115,7 +115,9 @@ main {
         grid-template-rows: 1fr 1fr;
         border-bottom: 1px solid #323230;
         text-align: center;
+        
     }
+   
     .nav-links {
         text-align: center;
     }
